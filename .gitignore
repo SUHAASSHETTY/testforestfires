@@ -1,0 +1,21 @@
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directory
+.venv/
+
+# Flask instance folder
+instance/
+
+# Flask .webassets cache
+.webassets-cache/
+
+# Environment variables file
+.env
+
+# Database files
+*.db
+*.sqlite3
